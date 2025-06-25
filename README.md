@@ -8,4 +8,4 @@ Linux is open source and much better than windows.
 there are 3 steps to download Linux.
 1st step is  to download Virtualbox.
 2nd step is  to download Microsoft c++ visual download 
-3rd step is download ubnut desktop 
+3rd step is download ubnut desktop. 
