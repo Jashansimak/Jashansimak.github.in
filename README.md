@@ -21,4 +21,12 @@ Then, we discussed about different types of companies.
             product based companies 
             service based companies 
             startup companies
- 
+
+After that I learned about Booting and its types 
+  
+Booting - Booting is the process of starting or resetting a computer.
+ It has two main types: 
+
+   cold booting and warm booting. 
+
+Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
