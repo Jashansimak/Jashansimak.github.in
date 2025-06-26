@@ -1,4 +1,4 @@
-ok 25/6/2025
+25/6/2025
 
  First day of training 
 
@@ -36,4 +36,11 @@ Cold booting is starting a computer from a completely powered-off state, while w
   Introduction to Kernel , Shell its types and    different commands
  
 Kernel -   In an operating system, the kernel is the core component that acts as a bridge between the hardware and the software.
+
+Shell
+ In an operating system, a shell acts as an interface between the user and the kernel, allowing users to interact with the system by executing commands. 
+
+ Types of shell 
+      
+        Bash 
 
