@@ -1,4 +1,4 @@
- 25/6/2025
+ok 25/6/2025
 
  First day of training 
 
@@ -30,3 +30,10 @@ Booting - Booting is the process of starting or resetting a computer.
    cold booting and warm booting. 
 
 Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
+
+      Day 2 
+
+  Introduction to Kernel , Shell its types and    different commands
+ 
+Kernel -   In an operating system, the kernel is the core component that acts as a bridge between the hardware and the software.
+
