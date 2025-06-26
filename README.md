@@ -15,6 +15,7 @@ Linux considered more secure due to its open-source nature, windows are less sec
 Linux is free of cost , windows are not free of cost.
 
 Then, we discussed about different types of companies.
+           
             product based companies 
             service based companies 
             startup companies
