@@ -80,7 +80,9 @@ File System Structure
     
       /var:           Stores variable data, such as log files, user tracking data, and caches.  
 
-              Commands           Description                         Syntax
+  commands
+  
+               Commands           Description                         Syntax
    
                ls               List the contents                     ls(options)
 
