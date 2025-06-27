@@ -106,6 +106,13 @@ File System Structure
 
              whatis               To get brief information about command       whatis[command]
  ![Uploading VirtualBox_ubuntu_27_06_2025_08_55_27 screenshort.png…]()
+
+ 27/6/2025 Day 3
+
+ File and directory permissions 
+ File permissions are the backbone of Linux security, ensuring that only authorized users and processes interact with your data.
+ 
+ 
    
               
      
