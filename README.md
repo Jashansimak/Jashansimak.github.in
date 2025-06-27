@@ -42,5 +42,9 @@ Shell
 
  Types of shell 
       
-        Bash 
+        Bash - Most common shell
+        sh - original shell
+        zsh- more features 
+        fish- modern, interactive 
+   
 
