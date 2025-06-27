@@ -46,6 +46,12 @@ Shell
         sh - original shell
         zsh- more features 
         fish- modern, interactive 
+
+ Shell categories 
+        1. command line shell
+        3. Graphical shell
+
+File System Structure
    
-File System Structure 
+      directory           
 
