@@ -31,7 +31,7 @@ Booting - Booting is the process of starting or resetting a computer.
 
 Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
 
-      Day 2 
+   26/6/2025  Day 2 
 
   Introduction to Kernel , Shell its types and    different commands
  
@@ -105,7 +105,6 @@ File System Structure
              whereis              show location of binary ,source         whereis[command]
 
              whatis               To get brief information about command       whatis[command]
-
 
   ![Uploading VirtualBox_ubuntu_27_06_2025_08_55_27 screenshort.png…]()
    
