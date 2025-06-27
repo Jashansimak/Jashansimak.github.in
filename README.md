@@ -107,7 +107,8 @@ File System Structure
              whatis               To get brief information about command       whatis[command]
 
 
-             
+          ![Uploading VirtualBox_ubuntu_27_06_2025_08_55_27 screenshort.png…]()
+   
               
      
      
