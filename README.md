@@ -78,5 +78,9 @@ File System Structure
     
       /usr: Contains user-related programs, libraries, and documentation.
     
-      /var: Stores variable data, such as log files, user tracking data, and caches.         
+      /var: Stores variable data, such as log files, user tracking data, and caches.  
+
+ Commands 
+   
+     ls: list the contents      
 
