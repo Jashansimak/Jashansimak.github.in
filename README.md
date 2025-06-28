@@ -161,8 +161,8 @@ File and directory permissions
        
         chown user:group file.txt
         Change the owner to user Change the group to group so that other users in that group can access the file .
-
-![Uploading image.png…]()
+        
+![Uploading chmod +x file.png…]()
 
 ![test sh is unwriteable](https://github.com/user-attachments/assets/a84a03b2-f741-4f06-b74d-9de160e99ecd)
 
