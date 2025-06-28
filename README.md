@@ -113,27 +113,36 @@ Dual Booting
 Dual-booting refers to the process of installing and running two different operating systems on a single computer, allowing the user to choose which one to use when starting the machine. 
 
   BARE METAL INSTALLATION 
+
   Bare metal installation of linux means installing the operating on a computer's hardware , without any intermediary virtualization software.
 
 
 VM ware 
+
 vm  ware is a commercial product known for its enterprise - grade  features , performence and comprehensive support .
 
 Partitioning Schemes :
 Dividing a hard disk into seperate sections .
 Each section acts as an independent disk.
 Help organize data and install multiple OS.
+
  Its Types:
+
  MBR(MASTER  BOOT RECORD )
+
  maximum 4 primary partitions . Support upto 2 TB.It stores partition info in one place.It has less flexibility.
 
  GPT(GUID PARTITION TABLE)
+
  It supports upto 128 partitions .It supports disks larger than 2 TB.More flexibile.
  
 File and directory permissions 
+
  File permissions are the backbone of Linux security, ensuring that only authorized users and processes interact with your data.
+
  Types of Commands
           1    chomd (change mode)
+          
           1. It is used to change the permissions(read, write, execute) of files or directories.
           syntax - chmod[permission] [filename]*for permission 
 
@@ -147,10 +156,12 @@ File and directory permissions
             It enables permissions only to owner 2.
 
 2  chown- change owner
+       
         chown user:group file.txt
         Change the owner to user Change the group to group so that other users in that group can access the file .
 
 Redirection
+
 Redirection in Linux means sending the output or input of a command to somewhere else, like a file.
 Example: echo "Hello" >day3.txt
 redirecting the message 'hello' t file 'day3.txt'
@@ -164,6 +175,7 @@ redirecting the message 'hello' t file 'day3.txt'
 
 
  Pipe In Linux 
+
  Pipe - Take the output of one command and pass it to another command .
  example- You have many files in a folder and you want to see only the file that ends with .sh
 
