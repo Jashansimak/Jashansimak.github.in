@@ -109,7 +109,22 @@ File System Structure
 
  27/6/2025 Day 3
 
- File and directory permissions 
+Dual Booting 
+Dual-booting refers to the process of installing and running two different operating systems on a single computer, allowing the user to choose which one to use when starting the machine. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+File and directory permissions 
  File permissions are the backbone of Linux security, ensuring that only authorized users and processes interact with your data.
  
  
