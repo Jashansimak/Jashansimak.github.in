@@ -162,7 +162,7 @@ File and directory permissions
         chown user:group file.txt
         Change the owner to user Change the group to group so that other users in that group can access the file .
         
-![Uploading chmod +x file.png…]()
+ ![Uploading chmod +x file.png…]()
 
 ![test sh is unwriteable](https://github.com/user-attachments/assets/a84a03b2-f741-4f06-b74d-9de160e99ecd)
 
@@ -195,6 +195,14 @@ redirecting the message 'hello' t file 'day3.txt'
      command1|command2
      command1-generates output
      command2- takes that output as input
+
+ ![VirtualBox_ubuntu_ pipe](https://github.com/user-attachments/assets/61097c6a-f20e-4012-8c2b-f4a348baa1cd)
+
+ ![Uploading VirtualBox_ubuntu_pipe multiple file.png…]()
+ 
+
+ 
+
      
      
 
