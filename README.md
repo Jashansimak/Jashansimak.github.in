@@ -164,11 +164,7 @@ File and directory permissions
 
 ![test sh is unwriteable](https://github.com/user-attachments/assets/a84a03b2-f741-4f06-b74d-9de160e99ecd)
 
-
-
-
-
-
+![VirtualBox_ubuntu_644](https://github.com/user-attachments/assets/b262ef22-71bb-4072-b595-fa030ea6b1f9)
 
 
 Redirection
