@@ -105,7 +105,9 @@ File System Structure
              whereis              show location of binary ,source         whereis[command]
 
              whatis               To get brief information about command       whatis[command]
- ![Uploading VirtualBox_ubuntu_27_06_2025_08_55_27 screenshort.png…]()
+ 
+ ![VirtualBox_ubuntu_27_06_2025_08_55_27 screenshort](https://github.com/user-attachments/assets/8b6b7586-415c-44a5-b484-eef83136b3c0)
+
 
  27/6/2025 Day 3
 
@@ -190,6 +192,7 @@ redirecting the message 'hello' t file 'day3.txt'
      command1|command2
      command1-generates output
      command2- takes that output as input
+     
      
 
 
