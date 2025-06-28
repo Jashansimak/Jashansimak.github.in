@@ -182,6 +182,9 @@ redirecting the message 'hello' t file 'day3.txt'
        Append	        >>          	echo "World" >> file.txt	      
        Input         	<	           wc -l < file.txt	         
 
+![redirection](https://github.com/user-attachments/assets/af6553ed-61eb-40b6-b1d3-5cff6d390ff1)
+
+![Uploading 13 14 redirection.png…]()
 
  Pipe In Linux 
 
