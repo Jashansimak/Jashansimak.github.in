@@ -148,7 +148,21 @@ File and directory permissions
 
 2  chown- change owner
         chown user:group file.txt
-        Change the owner to user Change the group to group so that other users in that group can access the file 
+        Change the owner to user Change the group to group so that other users in that group can access the file .
+
+Redirection
+Redirection in Linux means sending the output or input of a command to somewhere else, like a file.
+Example: echo "Hello" >day3.txt
+redirecting the message 'hello' t file 'day3.txt'
+
+         
+           Redirection Operators in Linux
+       Type        	Symbol         	Example Command	     
+       Output	        >           	echo "Hello" > file.txt      
+       Append	        >>          	echo "World" >> file.txt	      
+       Input         	<	           wc -l < file.txt	         
+
+
 
           
           
