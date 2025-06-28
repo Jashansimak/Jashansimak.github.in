@@ -162,6 +162,7 @@ File and directory permissions
 
 ![Uploading image.png…]()
 
+![test sh is unwriteable](https://github.com/user-attachments/assets/a84a03b2-f741-4f06-b74d-9de160e99ecd)
 
 
 
