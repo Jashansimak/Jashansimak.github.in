@@ -163,6 +163,16 @@ redirecting the message 'hello' t file 'day3.txt'
        Input         	<	           wc -l < file.txt	         
 
 
+ Pipe In Linux 
+ Pipe - Take the output of one command and pass it to another command .
+ example- You have many files in a folder and you want to see only the file that ends with .sh
+
+     syntax 
+     command1|command2
+     command1-generates output
+     command2- takes that output as input
+     
+
 
           
           
