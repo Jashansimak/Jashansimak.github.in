@@ -160,6 +160,15 @@ File and directory permissions
         chown user:group file.txt
         Change the owner to user Change the group to group so that other users in that group can access the file .
 
+
+
+
+
+
+
+
+
+
 Redirection
 
 Redirection in Linux means sending the output or input of a command to somewhere else, like a file.
