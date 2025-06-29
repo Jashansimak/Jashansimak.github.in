@@ -1,4 +1,4 @@
-25/6/2025
+![VirtualBox_ubuntu_29_06_2025_09_30_49](https://github.com/user-attachments/assets/56ee710f-f6e4-4945-8513-5f720eddec25)25/6/2025
 
  First day of training 
 
@@ -210,10 +210,17 @@ Shell programs:
       
 ![VirtualBox_ubuntu_29_06_2025_09_06_47](https://github.com/user-attachments/assets/6816110e-e3b0-4578-a513-af0b2800185f)
 
-Multiplication table of any number:
+ 2 Multiplication table of any number:
 ![VirtualBox_ubuntu_multiplication of num](https://github.com/user-attachments/assets/c8c8559c-94a7-47c3-92dc-4fc74928b669)
 
  ![VirtualBox_ubuntu_29_06_2025_09_18_26](https://github.com/user-attachments/assets/8d5153cb-fc9e-4698-926c-b7e54f0deae4)
+
+3. Compare two Variables
+    
+     ![VirtualBox_ubuntu_29_06_2025_09_30_49](https://github.com/user-attachments/assets/c5c8d9f6-a69f-4476-b761-9abf6a5e06d6)
+
+   
+    ![VirtualBox_ubuntu_29_06_2025_09_58_12](https://github.com/user-attachments/assets/f477c6ec-a02e-48f3-a428-368a155f8a1d)
 
 
 
