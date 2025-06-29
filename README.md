@@ -4,7 +4,8 @@
 
 In first day of training, i learned about linux in detail and different types of companies. 
    
-    Linux is the core of the operating system,            responsible for managing hardware resources and providing a platform for other software.
+Linux is the core of the operating system, responsible for managing hardware resources and providing a platform for other software.
+
 Linux is open source and much better than windows.Linux is known for its stability and security. 
 To install Linux on laptops , there are some steps to followed: 
        
@@ -201,7 +202,14 @@ redirecting the message 'hello' t file 'day3.txt'
  ![Uploading VirtualBox_ubuntu_pipe multiple file.png…]()
  
 
- 
+Shell programs:
+
+   1. Use of variables:
+      ![VirtualBox_ubuntu_29_06_2025_09_05_16](https://github.com/user-attachments/assets/f6b0c4cc-3977-4758-9ec6-6bdf1761a94e)
+
+      
+![VirtualBox_ubuntu_29_06_2025_09_06_47](https://github.com/user-attachments/assets/6816110e-e3b0-4578-a513-af0b2800185f)
+
 
      
      
