@@ -1,4 +1,4 @@
-![VirtualBox_ubuntu_29_06_2025_09_30_49](https://github.com/user-attachments/assets/56ee710f-f6e4-4945-8513-5f720eddec25)25/6/2025
+25/6/2025
 
  First day of training 
 
@@ -221,6 +221,20 @@ Shell programs:
 
    
     ![VirtualBox_ubuntu_29_06_2025_09_58_12](https://github.com/user-attachments/assets/f477c6ec-a02e-48f3-a428-368a155f8a1d)
+
+DAY 4 30/6/2025
+
+File compression 
+File Compression in linux , helping to the sizes of files .
+There are several commands available for compressing files ;
+
+ 1. Gzip - used to compress file.It compress the filename and replace it with filename.gz. 
+       syntax - gzip filename
+  e.g- gzip notes.txt creates notes.txt.gz and delete notes.txt
+
+2 gunzip 
+     
+    
 
 
 
