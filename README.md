@@ -298,14 +298,15 @@ Wildcards Command - Matches file Without full names.
 
 Quotes
 
-    QuoteType   	Syntax  	Description    	Example
+    QuoteType   	        Syntax             	Description                                              	Example
  
-   Single quotes  	'text'  	Preserves literal value of all characters inside.         	'Hello 
-$USER * ?' outputs exactly Hello $USER * ?
+   Single quotes        	'text'            Preserves literal value of all characters inside.         	'Hello $USER * ?' outputs exactly Hello $USER * ?
  
- Double quotes 	"text"    	Preserves most characters literally, but allows variable expansion and command substitution	      "Hello $USER" outputs Hello followed by your username
+ Double quotes         	"text"             Preserves most characters literally, but allows           "Hello $USER" outputs Hello followed by your username
+                                          
+                                           variable expansion and command substitution 
 
-Backslash	\char	Escapes the next character to be treated literally
+Backslash               \char               Escapes the next character to be treated literally
 
     
      
