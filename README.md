@@ -225,14 +225,44 @@ Shell programs:
 DAY 4 30/6/2025
 
 File compression 
-File Compression in linux , helping to the sizes of files .
+File Compression in linux , helping to reduce the sizes of files .
+
+Use of File Compression 
+
+Save Storage Space: Compressed file take up less disk space, allowing you to store more data.
+
+Faster transmission : Smaller files transfer more qyickly over networks.
+
 There are several commands available for compressing files ;
 
- 1. Gzip - used to compress file.It compress the filename and replace it with filename.gz. 
-           syntax - gzip filename
-  e.g- gzip notes.txt creates notes.txt.gz and delete notes.txt
+ 1. Gzip - used to compress file. It reduce the size of files , making them eaiser and faster to store or transfer.It compress the filename and replace it with filename.gz. 
 
-2 gunzip 
+     syntax - gzip filename
+ 
+     e.g- gzip notes.txt creates notes.txt.gz and delete notes.txt
+
+     This command wiil compress notes.txt and create a new file named notes.txt.gz, replacing the original file.
+
+Decompress a File 
+
+To decompress notes.txt.gz weu can use the gunzip command .
+
+gunzip notes.txt.gx
+
+This will decompress the file and remove the .gz extension , restoring the original notes.txt file.
+
+    Keep the Original File Too
+
+    To Compress a file and keep the original , use the -k flag.
+    
+    gzip -k notes.txt
+
+    Now notes.txt (kept)
+
+    notes.txt.gz (created)
+
+    This will create notes.txt.gz without deleting notes.txt.
+    
      
     
 
