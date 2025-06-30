@@ -225,6 +225,7 @@ Shell programs:
 DAY 4 30/6/2025
 
 File compression 
+
 File Compression in linux , helping to reduce the sizes of files .
 
 Use of File Compression 
@@ -262,6 +263,38 @@ This will decompress the file and remove the .gz extension , restoring the origi
     notes.txt.gz (created)
 
     This will create notes.txt.gz without deleting notes.txt.
+
+    Wildcards Command - Matches file Without full names. 
+
+            symbol                   Meaning                               Exmaple                       what it does
+              *                  matches zer or more character            ls * .txt                    Lists all files ending with .txt.
+
+              ?                  matches exactly one character            ls file? .txt                Matches files?.txt fileA.txt. etc.
+
+              [abc]              matches one character from set         ls file[123] .txt             Matches file1.txt. file2.txt. etc
+
+              [a-z]              matches any character in range          ls file[a-c] .txt            Matches filesa.txt .fileb.txt etc
+
+   Escaping Characters
+
+   Escaping Character means using a special symbol ( Usually a backslash) before a character to tell the computer to treat that character literally , not as a special or reserved symbol.
+
+         character to Escape            How to Escape                        Purpose/Meaning                                                    Example
+
+         space ()                       Use backslash\ or quotes                To treat space as part of filename or command argument.          file\ name.txt or "filename.txt     
+
+         Backslash(\)                   Use double backslash \\                 To represent a literal backslash                                echo \\ prints \
+
+         Dollar sign($)                 Use backslash \$                        To prevent variable expansion                                   echo\$HOME prints $HOME
+          
+         Asterisk(*)                    Use backslash\*                         To treat * literally ,not as a wildcard                        ls \*.txt lists files named*.txt literally
+
+         Question mark (?)              Use backslash\?                         To treat ? literally,not as a single character wildcard        ls file\?.txt matches file?.txt literally
+
+          Quotes(" or ')               Use backslash\" or \' inside quotes,     To include quotes in strings                                    echo "He said \"Hi\""
+                                       or use different quotes type  
+
+         Brackets ([])                 Use backslash\[and \]                    To treat brackets literally                                     ls file\[1\].txt matches file[1].txt
     
      
     
