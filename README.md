@@ -302,9 +302,9 @@ Quotes
  
       Single quotes        	'text'            Preserves literal value of all characters inside.         	'Hello $USER * ?' outputs exactly Hello $USER * ?
  
-      Double quotes         	"text"           Preserves most characters literally, but allows            "Hello $USER" outputs Hello followed by your username
+      Double quotes        	"text"           Preserves most characters literally, but allows            "Hello $USER" outputs Hello followed by your username
                                           
-                                              variable expansion and command substitution 
+                                             variable expansion and command substitution 
 
       Backslash             \char             Escapes the next character to be treated literally
 
