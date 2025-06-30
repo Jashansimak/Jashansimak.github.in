@@ -229,7 +229,7 @@ File Compression in linux , helping to the sizes of files .
 There are several commands available for compressing files ;
 
  1. Gzip - used to compress file.It compress the filename and replace it with filename.gz. 
-       syntax - gzip filename
+           syntax - gzip filename
   e.g- gzip notes.txt creates notes.txt.gz and delete notes.txt
 
 2 gunzip 
