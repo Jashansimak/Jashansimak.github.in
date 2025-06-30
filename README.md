@@ -264,7 +264,7 @@ This will decompress the file and remove the .gz extension , restoring the origi
 
     This will create notes.txt.gz without deleting notes.txt.
 
-    Wildcards Command - Matches file Without full names. 
+Wildcards Command - Matches file Without full names. 
 
             symbol                   Meaning                               Exmaple                       what it does
               *                  matches zer or more character            ls * .txt                    Lists all files ending with .txt.
