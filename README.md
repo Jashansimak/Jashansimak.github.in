@@ -296,9 +296,12 @@ Wildcards Command - Matches file Without full names.
 
          Brackets ([])                 Use backslash\[and \]                    To treat brackets literally                                     ls file\[1\].txt matches file[1].txt
 
+Quotes
+
     QuoteType   	Syntax  	Description    	Example
  
-   Single quotes  	'text'  	Preserves literal value of all characters inside.         	'Hello $USER * ?' outputs exactly Hello $USER * ?
+   Single quotes  	'text'  	Preserves literal value of all characters inside.         	'Hello 
+$USER * ?' outputs exactly Hello $USER * ?
  
  Double quotes 	"text"    	Preserves most characters literally, but allows variable expansion and command substitution	      "Hello $USER" outputs Hello followed by your username
 
