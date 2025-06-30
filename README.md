@@ -295,6 +295,7 @@ Wildcards Command - Matches file Without full names.
                                        or use different quotes type  
 
          Brackets ([])                 Use backslash\[and \]                    To treat brackets literally                                     ls file\[1\].txt matches file[1].txt
+
     
      
     
