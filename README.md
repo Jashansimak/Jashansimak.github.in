@@ -337,7 +337,29 @@ Software
                                 and are known as secondary storage devices.            
            
 
-      Processing Unit          
+      Processing Unit           Components that process data and execute instructions                         CPU(Central Processing Unit),GPU(Graphics Processing Unit)
+
+      Memory                    Temporary storage used by the CPU to hold data and instructions               RAM(Random access memory), Cache
+
+     Motherboard               It is the main circuit board inside a computer and                              Motherboard
+                               it contains most of the electronic components together.
+                               All the components of the computer are directly or
+                               indirectly connected to the motherboard
+
+
+   Power Supply              All of a computer system's parts are powered by a power source.                  PSU(Power Supply Unit)
+
+   Networking Hardware       Devices that connect computers and enable communication                          Network Interface Card(NIC) Router, Switch
+
+MOTHERBOARD
+
+Imagine your computer as a big city, and the motherboard as the main road system connecting all the important buildings—like the CPU (the brain), RAM (the memory), and storage (the library). Without the motherboard, these parts couldn’t talk to each other, and your computer wouldn’t work.A motherboard is the main circuit board inside a computer. 
+
+
+
+
+
+
 
 
      
