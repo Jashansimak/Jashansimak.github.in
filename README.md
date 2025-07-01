@@ -357,6 +357,30 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
 ![WhatsApp Image 2025-07-01 at 6 41 11 AM](https://github.com/user-attachments/assets/8e7b2624-d261-4ede-8a97-f4d965035d2b)
 
+   Component           	Description
+   CPU Socket.         	The slot where the processor (CPU) is installed
+
+    RAM Slots (DIMM)   	Slots for installing memory modules (RAM)
+
+    Chipset	              Manages data flow between CPU, memory, and peripherals
+   
+     BIOS/UEFI Chip	         Firmware that initializes hardware during boot-up
+
+     Power Connectors	      Connectors for power supply to distribute electricity to components
+     
+     Expansion Slots.      	Slots (PCI, PCIe) for adding graphics cards, network cards, etc.
+
+     SATA Ports	             Connectors for storage devices like HDDs and SSDs
+
+     M.2 Slots	              Connectors for modern high-speed SSDs
+
+     CMOS Battery	           Powers the BIOS memory to retain settings when the PC is off
+ 
+      USB Headers          	Connectors for USB ports on the front or back panel
+     
+      Audio Connectors.     	Ports for audio input/output devices
+     
+     Network Port(Ethernet)  	Connector for wired network connections
 
 
     
