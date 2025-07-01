@@ -308,7 +308,38 @@ Quotes
 
       Backslash             \char             Escapes the next character to be treated literally
 
-    
+ 
+DAY 4 30/6/2025
+
+Hardware 
+
+Computer hardware refers to the physical components of a computer that you can see and touch. These components work together to process input and deliver output based on user instructions. In this article, we’ll explore the different types of computer hardware, their functions, and how they interact to make your computer work.
+
+The computer has mainly has two major components:
+
+Hardware
+Software
+
+          Hardware Type                         Description                                                     Example
+       
+       Input Devices             devices allow users to interact with
+                                 a computer by entering data or commands.                                      Keyboard, Mouse, Scanner, Trackball                 
+                                 These devices convert the input into a
+                                 format that the computer can process.  
+
+     
+       
+       Output Devices            Output devices display the results of tasks given                              Monitor,Printer,Speaker                                  
+                                 to the computer in a human-readable form. 
+                                                                                                                     
+
+       Storage Devices          Some devices are used for storage purposes                                      CD (Compact disc), Hard Drive(HDD),USB
+                                and are known as secondary storage devices.            
+           
+
+      Processing Unit          
+
+
      
     
 
