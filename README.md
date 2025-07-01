@@ -357,8 +357,10 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
 ![WhatsApp Image 2025-07-01 at 6 41 11 AM](https://github.com/user-attachments/assets/8e7b2624-d261-4ede-8a97-f4d965035d2b)
 
-   Component           	Description
-   CPU Socket.         	The slot where the processor (CPU) is installed
+   
+     Component           	Description
+  
+    CPU Socket.         	The slot where the processor (CPU) is installed
 
     RAM Slots (DIMM)   	Slots for installing memory modules (RAM)
 
