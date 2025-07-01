@@ -347,9 +347,9 @@ Software
                                indirectly connected to the motherboard
 
 
-   Power Supply              All of a computer system's parts are powered by a power source.                  PSU(Power Supply Unit)
+    Power Supply                All of a computer system's parts are powered by a power source.                  PSU(Power Supply Unit)
 
-   Networking Hardware       Devices that connect computers and enable communication                          Network Interface Card(NIC) Router, Switch
+    Networking Hardware        Devices that connect computers and enable communication                          Network Interface Card(NIC) Router, Switch
 
 MOTHERBOARD
 
