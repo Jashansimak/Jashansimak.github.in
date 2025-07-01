@@ -355,14 +355,10 @@ MOTHERBOARD
 
 Imagine your computer as a big city, and the motherboard as the main road system connecting all the important buildings—like the CPU (the brain), RAM (the memory), and storage (the library). Without the motherboard, these parts couldn’t talk to each other, and your computer wouldn’t work.A motherboard is the main circuit board inside a computer. 
 
+![WhatsApp Image 2025-07-01 at 6 41 11 AM](https://github.com/user-attachments/assets/8e7b2624-d261-4ede-8a97-f4d965035d2b)
 
 
 
-
-
-
-
-     
     
 
 
