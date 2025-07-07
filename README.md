@@ -384,6 +384,11 @@ Imagine your computer as a big city, and the motherboard as the main road system
      
      Network Port(Ethernet)  	Connector for wired network connections
 
+ ![WhatsApp Image 2025-07-01 at 6 41 11 AM (1)](https://github.com/user-attachments/assets/9812e660-046c-4d30-9dd5-5468572b2cc7)
+
+ 
+
+
 
     
 
