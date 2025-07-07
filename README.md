@@ -386,6 +386,10 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
  ![WhatsApp Image 2025-07-01 at 6 41 11 AM (1)](https://github.com/user-attachments/assets/9812e660-046c-4d30-9dd5-5468572b2cc7)
 
+wHAT is Cache  Memory:
+
+Cache memory is a small, very fast memory inside the CPU that stores data and instructions the CPU  uses often.  
+
  
 
 
