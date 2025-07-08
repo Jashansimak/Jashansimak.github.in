@@ -388,7 +388,14 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
 wHAT is Cache  Memory:
 
-Cache memory is a small, very fast memory inside the CPU that stores data and instructions the CPU  uses often.  
+Cache memory is a small, very fast memory inside the CPU that stores data and instructions the CPU  uses often. 
+It helps the CPU Work faster by quickly giving it the information it needs without waiting for slower main memory(RAM).
+
+How RAM IS DIFFERENT FROM CACHE MEMRY;
+
+    Feature             RAM(Random Access Memory)                      Cache Memory
+     
+     Speed   
 
  
 
