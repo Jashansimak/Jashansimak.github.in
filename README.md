@@ -413,7 +413,7 @@ How RAM IS DIFFERENT FROM CACHE MEMRY;
 
       Managed By          	Managed by the operating system               	Managed by file system and OS
 
-REGISTERS
+• REGISTERS
 
 Registers are tiny, super-fast storage locations inside the CPU. They hold data and instructions that the CPU is currently working on. Registers are the fastest type of memory because they are directly part of the processor.
 
@@ -429,7 +429,7 @@ DAY 5
 
 💻PC & Network Troubleshooting
 
-GPU
+• GPU
 
 GPU stands for Graphics Processing Unit. It’s a special processor designed to handle graphics and images, like in video games, videos, and 3D rendering.
 
@@ -443,7 +443,7 @@ Also used for AI, machine learning, and scientific calculations
 
 Common issues and Problems in PC
 
-Partitioning of Hard Disk
+•Partitioning of Hard Disk
 
 Partitioning of Hard Disk means dividing a physical hard disk into separate sections called partitions. Each partition works like a separate drive, allowing you to organize data better, install multiple operating systems, or separate system files from personal files.
 
@@ -482,7 +482,7 @@ CAUSES AND FIXES OF SLOW SPEED OF PC
 
  SYSTEM SCANNING AND DEFRAGMENTATION
 
-Optimization
+•Optimization
 
 Optimization means making your computer or software work faster and more efficiently. It involves cleaning up unnecessary files, fixing errors, managing startup programs, and adjusting settings so everything runs smoothly.
 
