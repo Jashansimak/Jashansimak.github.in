@@ -470,7 +470,7 @@ CAUSES AND FIXES OF SLOW SPEED OF PC
 
     Outdated Software or Drivers	    Old versions can cause slowdowns or conflicts      	Update OS, drivers, and software regularly
 
-   Too Many Background Processes     	Multiple apps running simultaneously             	Close unnecessary programs via Task Manager
+       Too Many Background Processes      	Multiple apps running simultaneously             	Close unnecessary programs via Task Manager
 
     Fragmented Hard Drive (HDD only)	    Files scattered across disk, slowing access      	Run disk defragmentation tool (not needed for SSD)
 
