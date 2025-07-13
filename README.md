@@ -551,6 +551,77 @@ Blue Screen of Death (BSOD) and Why It Happens BSOD is an error screen shown by 
 
 <img width="1076" height="608" alt="image" src="https://github.com/user-attachments/assets/ae0ff268-87e3-4686-93ba-1f360086fbc1" />
 
+Why BSOD happens:
+
+Faulty or incompatible hardware (like bad RAM or hard drives)
+
+Driver problems (corrupted or outdated drivers)
+
+Software bugs or corrupted system files
+
+Overheating or hardware failures
+
+Malware or virus infections
+
+Conflicts between software and hardware
+
+When BSOD occurs, Windows shows an error code to help identify the problem.
+
+System crash analysis
+
+System crash analysis is the process of investigating why a computer suddenly stops working or restarts unexpectedly. The goal is to find the cause and fix it to prevent future crashes.
+
+How it’s done:
+
+Check error messages or codes shown during the crash.
+
+Review system logs using tools like Event Viewer.
+
+Analyze crash dump files with utilities such as BlueScreenView or WinDbg.
+
+Look for recent changes in hardware, software, or drivers that might have caused the crash.
+
+Run hardware diagnostics to check for failing components.
+
+Fixes usually involve:
+
+Updating or rolling back drivers.
+
+Removing problematic software.
+
+Repairing corrupted system files.
+
+Replacing faulty hardware.
+
+📝ASSIGNMENT
+
+BIOS/UEFI Settings and POST Errors
+
+BIOS/UEFI Settings
+
+BIOS (Basic Input/Output System) and UEFI (Unified Extensible Firmware Interface) are firmware interfaces between your computer’s hardware and operating system.
+
+They initialize hardware components during startup and provide runtime services for the OS.
+BIOS is older; UEFI is newer with more features like faster boot, secure boot, and support for large drives.
+
+Users can access BIOS/UEFI to configure system settings such as boot order, hardware settings, and security options.
+
+POST Errors
+
+POST (Power-On Self-Test) is a diagnostic test run by BIOS/UEFI at startup to check hardware health.
+
+If POST detects issues, it shows error messages or beep codes.
+
+•Common POST errors include:
+
+•No display: Could be GPU or monitor issue.
+
+•Beep codes: Indicate hardware faults (RAM, CPU, GPU).
+
+•Error messages: Like “Keyboard error” or “Boot device not found.”
+
+•Troubleshooting POST errors involves checking hardware connections, reseating components, or replacing faulty parts.
+
 
 
 
