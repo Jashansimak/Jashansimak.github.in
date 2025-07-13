@@ -478,7 +478,81 @@ CAUSES AND FIXES OF SLOW SPEED OF PC
 
       Overheating                       	CPU/GPU throttling due to heat                          Clean fans, improve cooling, or replace thermal paste
     
-       Old Hardware               	Aging components slower than current software demands	           Upgrade hardware components (CPU, RAM, SSD)
+       Old Hardware               	Aging components slower than current software demands	           Upgrade hardware components (CPU, RAM, SSD
+
+ SYSTEM SCANNING AND DEFRAGMENTATION
+
+Optimization
+
+Optimization means making your computer or software work faster and more efficiently. It involves cleaning up unnecessary files, fixing errors, managing startup programs, and adjusting settings so everything runs smoothly.
+
+By optimizing your system, you can improve speed, reduce crashes, and get better overall performance.
+
+System Scanning is the process where your computer checks itself for errors, malware, or other issues. It helps find and fix problems like viruses, corrupted files, or system glitches, keeping your PC safe and running smoothly.
+
+Defragmentation is the process of organizing files on your hard drive so they are stored in one place instead of scattered around. This makes your computer read and write files faster, improving overall performance. Note that defragmentation is useful for traditional hard drives (HDDs) but not needed for solid-state drives (SSDs).
+
+Scheduled Optimization
+
+Scheduled Optimization is setting your computer or device to automatically perform maintenance tasks at regular times—like cleaning up junk files, defragmenting the disk, or scanning for errors—without you having to do it manually.
+
+This helps keep your system running smoothly and fast without interrupting your work.
+
+Why Install an Antivirus Scanner?
+
+Protects Your Computer: Detects and removes viruses, malware, spyware, and other harmful software that can damage your files or system.
+
+Prevents Data Theft: Stops hackers and malicious software from stealing your personal information like passwords, bank details, and documents.
+
+Keeps System Running Smoothly: Removes unwanted programs that slow down your computer or cause crashes.
+
+Safeguards Against New Threats: Regular updates help protect you from the latest viruses and cyberattacks.
+
+Printer Problems and Solutions
+
+     Problem	                  Cause                                      	Solution
+   Printer Not Printing     	Printer offline or not connected          	Check cables/connections, turn on printer, set as default device
+   
+    Paper Jam	               Paper stuck inside printer                	Open printer and carefully remove jammed paper
+   
+    Poor Print Quality	       Low ink/toner, dirty print head            	Replace ink/toner, clean the print head
+
+   Printer is Slow         	High-resolution settings or busy print queue     	Lower print quality settings, clear print queue
+   
+   Driver Issues             	Outdated or missing drivers                      	Update or reinstall printer drivers
+
+   Unable to Connect Wireless	     Wi-Fi or network problems	                    Restart router, reconnect printer to network
+ 
+     Error Messages on Printer        	Hardware or software fault             	Check error code in manual or reset printer
+
+      Blank Pages Printed          	Empty ink cartridge or clogged nozzles          	Replace cartridge or clean nozzles
+
+Benefits of Updates
+
+Improved Security: Updates patch vulnerabilities that hackers could exploit.
+
+Bug Fixes: They fix software errors and glitches for smoother performance.
+
+New Features: Updates often add new tools and functionalities.
+
+Better Compatibility: Ensure your software works well with new hardware and other programs.
+
+Performance Enhancements: Updates can speed up software and make it more efficient.
+
+Stability Improvements: Reduce crashes and unexpected errors.
+
+Compliance: Keeps software up to date with industry standards and regulations.
+
+PC Hardware Troubleshooting
+
+Blue Screen of Death (BSOD)
+
+Blue Screen of Death (BSOD) and Why It Happens BSOD is an error screen shown by Windows when the system encounters a serious problem it cannot fix on its own. It stops everything to prevent damage. 
+
+<img width="1076" height="608" alt="image" src="https://github.com/user-attachments/assets/ae0ff268-87e3-4686-93ba-1f360086fbc1" />
+
+
+
 
  
 
