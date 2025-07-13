@@ -393,9 +393,92 @@ It helps the CPU Work faster by quickly giving it the information it needs witho
 
 How RAM IS DIFFERENT FROM CACHE MEMRY;
 
-    Feature             RAM(Random Access Memory)                      Cache Memory
+       Feature             RAM(Random Access Memory)                      Cache Memory
      
-     Speed   
+       Speed                Slower than cache memory                    Much faster than RAM
+
+       Location           On the motherboard                           On or very close to the CPU
+
+       Purpose         Stores data and programs currently in use        Stores frequently accessed data/instructions
+
+      Size           Larger(e.g., 8GB, 16GB)                           Smaller (KB to a few MB)
+  
+      Cost            	More expensive per GB                        	Less expensive per GB
+
+       Access        Time	Very low latency (nanoseconds)	            Higher latency (microseconds to milliseconds)
+
+     Volatility         	Volatile (loses data when power is off)      	Non-volatile (retains data without power)
+
+      Data Retention        	Temporary	                                   Permanent
+
+      Managed By          	Managed by the operating system               	Managed by file system and OS
+
+REGISTERS
+
+Registers are tiny, super-fast storage locations inside the CPU. They hold data and instructions that the CPU is currently working on. Registers are the fastest type of memory because they are directly part of the processor.
+
+Very small storage inside the CPU
+
+Store data the CPU needs immediately
+
+Faster than cache and RAM
+
+Used to perform calculations and operations quickly
+
+DAY 5
+
+💻PC & Network Troubleshooting
+
+GPU
+
+GPU stands for Graphics Processing Unit. It’s a special processor designed to handle graphics and images, like in video games, videos, and 3D rendering.
+
+Works alongside the CPU
+
+Great at doing many tasks at once (parallel processing)
+
+Speeds up drawing images, videos, and animations
+
+Also used for AI, machine learning, and scientific calculations
+
+Common issues and Problems in PC
+
+Partitioning of Hard Disk
+
+Partitioning of Hard Disk means dividing a physical hard disk into separate sections called partitions. Each partition works like a separate drive, allowing you to organize data better, install multiple operating systems, or separate system files from personal files.
+
+        Partition Type           	Description                               	Limitations
+
+      Extended Partition	     A special partition that                      Only one extended partition per disk.
+                              can hold multiple logical partitions.	
+                                                                
+
+     Logical Partition    	Partitions created inside the
+                             extended partition.	                       Allows more than 4 partitions on a disk.
+
+Shortcut key for Help is F11
+
+CAUSES AND FIXES OF SLOW SPEED OF PC
+  
+          Cause                           	Description                    	          Fix / Solution
+    Too Many Startup Programs	    Programs launching automatically 
+                                     slow boot time                               	Disable unnecessary startup apps via Task Manager or System Settings
+
+     Low Disk Space	        Hard drive almost full, affecting performance        	Free up space by deleting unwanted files or uninstalling apps
+
+     Malware or Virus          	Malicious software consumes resources            	Run a full antivirus scan and remove threats
+
+    Outdated Software or Drivers	    Old versions can cause slowdowns or conflicts      	Update OS, drivers, and software regularly
+
+   Too Many Background Processes     	Multiple apps running simultaneously             	Close unnecessary programs via Task Manager
+
+    Fragmented Hard Drive (HDD only)	    Files scattered across disk, slowing access      	Run disk defragmentation tool (not needed for SSD)
+
+     Insufficient RAM                   	Not enough memory for running apps                	Upgrade RAM or close unused applications
+
+      Overheating                       	CPU/GPU throttling due to heat                          Clean fans, improve cooling, or replace thermal paste
+    
+       Old Hardware               	Aging components slower than current software demands	           Upgrade hardware components (CPU, RAM, SSD)
 
  
 
